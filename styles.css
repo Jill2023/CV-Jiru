@@ -1,0 +1,33 @@
+.first
+{
+  color:blue;
+  font-size:xxx-large;
+  font-weight:bold;
+  text-align:center;
+  
+ }
+ 
+ .second
+ {
+   color: blue;
+   font-size:xx-large;
+   font-weight:bold;
+ }
+ 
+.third
+{
+   font-size:large;
+   font-weight:bold;
+   text-align:center;
+}
+
+.forth
+{
+  font-size:large;
+  text-align:center;
+}
+
+body
+{
+	background-image:url("background.jpg");
+}
